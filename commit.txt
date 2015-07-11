@@ -1,0 +1,63 @@
+commit 0dc515260c5d18382e01a253cec21c21f8b9e78b
+
+Author: Jesus Romero <opteron@outlook.es>
+
+Date:   Wed Jul 8 12:49:06 2015 -0500
+
+
+Aregue portafolio
+
+
+
+commit 65b3cd82fba61390491482b7433ed983cb20b192
+
+Author: Jesus Romero <opteron@outlook.es>
+
+Date:   Wed Jul 8 12:47:32 2015 -0500
+
+
+    Agrege descripcion
+
+
+
+commit 695c5820af200f4db6aaa3cb19de67785f7f2b25
+
+Author: Jesus Romero <opteron@outlook.es>
+
+Date:   Wed Jul 8 12:44:01 2015 -0500
+
+    
+	Agregue redes sociales
+
+
+
+commit 156590c290427292a323a992cbace61064abd51f
+
+Author: Jesus Romero <opteron@outlook.es>
+
+Date:   Wed Jul 8 12:40:57 2015 -0500
+
+
+    Subi mi perfil del website
+
+
+
+commit edd8185d3c1206a4f24c016bed79ef323b749078
+
+Author: Jesus Romero <opteron@outlook.es>
+
+Date:   Wed Jul 8 12:38:00 2015 -0500
+
+
+    Subi foto de perfil y mi nombre
+
+
+
+commit 448e1ac162beab74f64e90d0565bcfffcf0ef6cb
+
+Author: Jesus Romero <opteron@outlook.es>
+
+Date:   Wed Jul 8 12:33:38 2015 -0500
+
+
+    Estos son los archivos base de mi portafolio
